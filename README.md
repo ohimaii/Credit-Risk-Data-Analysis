@@ -1,4 +1,4 @@
-# Loan-Default-Data-Analysis
+# Loan-Default-Data-Project
 This repository contains an ongoing loan data analysis project utilizing data visualization, EDA and machine learning.
 All of the work is done by me, but I will be using a Hypothetical Lending and Financing company to keep things interesting.
 
