@@ -12,3 +12,6 @@ Stakeholders are interested in better understanding the data they have to help i
 IN PROGRESS - LOAN DEFAULT PREDICTION ENGINE
 
 The Analytics team of GL Financial would now look to build an engine to predict loan default for future customers. This analysis with visualizations was only part of the first sprint towards the stated solution. Stakeholders are now looking forward to seeing what the Analytics team comes up with (and so are you, I assume!)
+
+
+Data Source: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
